@@ -2,7 +2,7 @@
 
 Este repositório tem como objetivo explorar técnicas de visualização de dados orientados ao tempo, utilizando a linguagem de programação Python. Nele, foram implementados gráficos Gantt, gráficos 3D e gráficos lineares em tempo real, com o objetivo de fornecer insights visuais claros e precisos a partir dos dados fornecidos.
 
-![Screenshot_1](https://github.com/jonas-elias/projeto-visualizacao-dados/assets/48037643/6b23bce0-5bf9-4deb-927e-1c88cab3091f)
+![Screenshot_1](https://github.com/jonas-elias/projeto-visualizacao-dados/assets/48037643/3b7b5139-514f-4bd3-9992-34ecb7a268aa)
 
 ## Requisitos
 
