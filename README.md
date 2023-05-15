@@ -6,8 +6,8 @@ Este repositório tem como objetivo explorar técnicas de visualização de dado
 
 ## Requisitos
 
-### Postgresql && Jupyter
-Para utilização dos gráficos em tempo real, é necessária uma conexão com o banco de dados Postgresql. Para todos os outros gráficos, é necessária a instalação do Jupyter no VSCode.
+### PostgreSql && Jupyter
+Para utilização dos gráficos em tempo real, é necessária uma conexão com o banco de dados PostgreSql. Para todos os outros gráficos, é necessária a instalação do Jupyter no VSCode.
 
 ### Configuração:
 
