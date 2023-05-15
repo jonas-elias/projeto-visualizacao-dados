@@ -2,6 +2,8 @@
 
 Este repositório tem como objetivo explorar técnicas de visualização de dados orientados ao tempo, utilizando a linguagem de programação Python. Nele, foram implementados gráficos Gantt, gráficos 3D e gráficos lineares em tempo real, com o objetivo de fornecer insights visuais claros e precisos a partir dos dados fornecidos.
 
+![screenzy-1684178695244](https://github.com/jonas-elias/patents-elastic/assets/48037643/b293fa81-508f-46fa-a781-72bf6f7fbbb8)
+
 ## Requisitos
 
 ### Postgresql && Jupyter
