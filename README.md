@@ -23,7 +23,7 @@ pip install -r dependencies.txt
 
 ## Stack utilizada
 
-**PHP**, **PostgreSql**, **Docker**, **VSCode**.
+**Python**, **PostgreSql**, **Jupyter**, **Docker**, **VSCode**.
 
 ## Contribuindo para a Universidade
 
